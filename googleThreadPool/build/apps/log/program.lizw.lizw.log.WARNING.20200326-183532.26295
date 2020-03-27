@@ -1,0 +1,5 @@
+Log file created at: 2020/03/26 18:35:32
+Running on machine: lizw
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0326 18:35:32.088281 26300 thread_pool.cpp:133] DoWork:  running_0
+W0326 18:35:32.088376 26301 thread_pool.cpp:133] DoWork:  running_1
