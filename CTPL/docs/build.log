@@ -1,0 +1,4 @@
+c++  -Iinclude/ -c src/example.cpp -o build/objects/src/example.o -L/usr/lib -lstdc++ -lm -lpthread
+Makefile:32: recipe for target 'build/objects/src/example.o' failed
+c++  -o ./build/apps/program build/objects/src/example.o -L/usr/lib -lstdc++ -lm -lpthread
+Makefile:36: recipe for target 'build/apps/program' failed
